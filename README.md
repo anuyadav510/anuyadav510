@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Annoo Yadav 👋
 
-<!--
-**anuyadav510/anuyadav510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech CSE @ GL Bajaj Group, Mathura | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm a passionate Computer Science student who loves building things with code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently learning: **Python, C, Web Development & DSA**
+- 🌱 Exploring: **Hackathons and Tech Events**
+- 👯 Looking to collaborate on: **Open Source Projects**
+- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/annoo-yadav-7899a2433)
+
+### 🛠️ Languages & Tools
+`Python` `C` `HTML` `CSS` `JavaScript` `Git` `GitHub`
+
+---
+✨ "Learning, building, and growing one line of code at a time!"
